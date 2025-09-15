@@ -17,6 +17,12 @@ wordLength ** 0.5 //Квадаратный корень
 Math.pow(wordLength, 0.5)
 Math.sqrt(wordLength)
 
-const result = 1
+let result;
+
+if (true) {
+    result = 1
+} else {
+    result
+}
 
 console.log(result)
